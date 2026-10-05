@@ -1,7 +1,7 @@
 ### Información del Equipo
 - **Integrantes:**
   - Benjamín G
-  - Nombre 2 - Rol 2
+  - rOCÍO G
   - Nombre 3 - Rol 3
   - Nombre 4 - Rol 4
   
